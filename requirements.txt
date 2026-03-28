@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+redis
+faiss-cpu
+sentence-transformers
+rank-bm25
+langchain
+PyPDF2
